@@ -39,6 +39,9 @@ $ python backup.py
 
 See also the list of [contributors](https://github.com/Fhoughton/Digit-Recognizer/contributors) who participated in this project.
 
+## About
+Babble was develop as a learning excercise to get to grips with the Django framework and understand how it is used to deploy real world solutions. It is based off a tutorial by [CoreyMSchafer](https://github.com/CoreyMSchafer) and presented interesting concepts found in real world applications such as safety features and user specific pages and data.
+
 ## License
 
 This project is licensed under the MIT license which means you can copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software under certain conditions. For more read: https://opensource.org/licenses/MIT
