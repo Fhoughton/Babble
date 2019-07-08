@@ -1,5 +1,5 @@
 # Babble
-Babble is a lightweight public blog framework built using the python web development library Django. It has many safety features and aims to be easy to use and configure into a deployable website.
+Babble is ablog framework built using the python web development library Django. It has many safety features and aims to be easy to use and configure into a deployable website.
 
 ![Preview](https://i.imgur.com/OPEPFdA.png)
 ![Edit Profile Preview](https://i.imgur.com/3vyRxg1.png)
